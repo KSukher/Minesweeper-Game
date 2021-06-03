@@ -1,6 +1,6 @@
 # Minesweeper-Game
 
-
+A Java implementation of the classic Minesweeper game. This game features the original GUI grid with countdown timer, randomly generated bombs/flags, and a menu option for new games, saved games and highscores.
 
 Notes for running the Minesweeper game,
 
