@@ -12,4 +12,4 @@ Notes for running the Minesweeper game,
 
 - To change the difficulty of the game, adjust the `BOMB_PROBABILITY` variable in <b>Settings.java</b> down (<b>Easy</b>) or up (<b>Hard</b>).
 
-- (Remember to terminate after saving the changes and rerunning the server and game.)
+(Remember to terminate after saving the changes and rerunning the server and game.)
