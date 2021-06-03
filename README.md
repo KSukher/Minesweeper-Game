@@ -4,7 +4,7 @@ A Java implementation of the classic Minesweeper game. This game features the or
 
 Notes for running the Minesweeper game,
 
-- Add the jar file into the properties if not already done so.
+- Add the <b>sqlite-jdbc-3.30.1.jar</b> file into the properties if not already done so.
 
 - Before starting, terminate any other Java application that is running on the IDE.
 
