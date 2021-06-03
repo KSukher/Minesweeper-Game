@@ -4,12 +4,11 @@ A Java implementation of the classic Minesweeper game. This game features the or
 
 Notes for running the Minesweeper game,
 
-- Add the <b>sqlite-jdbc-3.30.1.jar</b> file into the properties if not already done so.
+- Add the <b>sqlite-jdbc-3.30.1.jar</b> file into the properties of the project if not already there.
 
 - Before starting, terminate any other Java application that is running on the IDE.
 
-- First start up the server in <b>MineSweeperServer.java</b>, then run the game in <b>MineSweeperStarter.java</b>.
+- First start up the server by executing <b>MineSweeperServer.java</b>, then run the game in <b>MineSweeperStarter.java</b>.
 
-- If testing the highscore feature, or changing the difficulty of the game in general,
-  in <b>Settings.java</b> the `BOMB_PROBABILITY` variable can be adjusted down (<b>Easy</b>) or up (<b>Hard</b>).
-  (Remember to terminate after saving the change and rerunning the server and game.)
+- To change the difficulty of the game, adjust the `BOMB_PROBABILITY` variable in <b>Settings.java</b> down (<b>Easy</b>) or up (<b>Hard</b>).
+  (Remember to terminate after saving the changes and rerunning the server and game.)
