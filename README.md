@@ -2,7 +2,7 @@
 
 A Java implementation of the classic Minesweeper game. This game features the original GUI grid with countdown timer, randomly generated bombs/flags, and a menu option for new games, saved games and highscores.
 
-![Gameboard 1](https://github.com/KSukher/Stock-Price-Prediction/blob/main/Stock%20Market%20Price%20Predicting%20with%20LSTM%20(Quad%20Chart).png)
+![Gameboard 1](https://github.com/KSukher/Minesweeper-Game/blob/main/MinesweeperEx1.png) ![Gameboard 2](https://github.com/KSukher/Minesweeper-Game/blob/main/MinesweeperEx2.png)
 
 Notes for running the Minesweeper game,
 
